@@ -24,7 +24,7 @@ function App() {
     formData.append("job_description", jobDescription);
 
     const response = await fetch(
-      "http://127.0.0.1:8000/upload-resume",
+      "https://resume-screening-ai-1-1arf.onrender.com/upload-resume",
       {
         method: "POST",
         body: formData,
