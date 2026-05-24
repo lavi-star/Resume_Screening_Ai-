@@ -1,3 +1,4 @@
+
 # AI Resume Screening System 🚀
 
 An AI-powered Resume Screening System built using FastAPI, React, and Machine Learning concepts.
@@ -23,16 +24,13 @@ An AI-powered Resume Screening System built using FastAPI, React, and Machine Le
 ## Screenshots 📸
 
 ### Home Page
-(Add Screenshot Here)
+(<img width="1184" height="463" alt="homee" src="https://github.com/user-attachments/assets/6001dc58-9243-4549-80ae-a36136d48f3d" />)
 
 ### Resume Analysis
-(Add Screenshot Here)
+(<img width="1142" height="459" alt="analysis" src="https://github.com/user-attachments/assets/3ec46156-5107-4409-a97e-35976bea4156" />)
 
 ### Match Score & NLP Similarity
-(Add Screenshot Here)
-
-### Recommendations Section
-(Add Screenshot Here)
+(<img width="1105" height="376" alt="matchscore" src="https://github.com/user-attachments/assets/a3cca5aa-9176-45b6-8c09-634664dfe898" />)
 
 ---
 
