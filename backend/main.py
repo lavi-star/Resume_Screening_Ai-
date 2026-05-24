@@ -8,10 +8,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 app = FastAPI()
 
-origins = [
-    "http://localhost:3000",
-    "http://localhost:3001",
-]
+origins = [*]
 
 app.add_middleware(
     CORSMiddleware,
